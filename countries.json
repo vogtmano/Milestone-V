@@ -1,0 +1,68 @@
+{
+  "country":[
+    {
+        "name": "Brazil",
+        "capital": "Brasilia",
+        "size": 8515767,
+        "population": 217240060,
+        "currency": "BRL",
+        "internetDomain": ".br"
+    },
+    {
+        "name": "England",
+        "capital": "London",
+        "size": 130.395 ,
+        "population": 56286961,
+        "currency": "GBP",
+        "internetDomain": ".uk"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "size": 312.696,
+        "population": 38036118,
+        "currency": "PLN",
+        "internetDomain": ".pl"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "size": 9597000,
+        "population": 1412000000,
+        "currency": "RMB",
+        "internetDomain": ".cn"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "size": 923.768,
+        "population": 219463862,
+        "currency": "NGN",
+        "internetDomain": ".ng"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "size": 196.190,
+        "population": 14668522,
+        "currency": "XOF",
+        "internetDomain": ".sn"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "size": 643.801,
+        "population": 67522000,
+        "currency": "EUR",
+        "internetDomain": ".fr"
+    },
+    {
+        "name": "USA",
+        "capital": "Washington",
+        "size": 9833520,
+        "population": 332403650,
+        "currency": "USD",
+        "internetDomain": ".us"
+    }
+  ]
+}
